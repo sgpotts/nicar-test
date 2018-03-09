@@ -15,3 +15,9 @@ _You **can** combine them_
 3. Testing 3
 
 Adding extra information here. 
+
+# Hi, it's Travis 
+### I am making some additions to this project. 
+
+**This is another test** _Is it working?_
+
