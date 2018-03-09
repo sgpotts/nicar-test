@@ -1,5 +1,5 @@
-# nicar-test
-Github class at NICAR
+# nicar test
+Github at NICAR.
 
 
 ## This is where my data will go
@@ -13,3 +13,5 @@ _You **can** combine them_
 1. Testing 1
 2. Testing 2
 3. Testing 3
+
+Adding extra information here. 
